@@ -1,4 +1,4 @@
-﻿#
+﻿#Sam Cohen (C) 2016
 #Win10 App Restore.ps1
 #Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
 
