@@ -8,6 +8,17 @@
     <RootNamespace>MyApplication</RootNamespace>
     <AssemblyName>MyApplication</AssemblyName>
     <Name>UWP Refresh</Name>
+    <ClrVersion />
+    <PowerShellHostVersion />
+    <PowerShellVersion>v4</PowerShellVersion>
+    <ProcessorArchitecture />
+    <RequiredModules />
+    <Author>Sam Cohen</Author>
+    <CompanyName />
+    <Copyright>2016</Copyright>
+    <Description />
+    <Version>1.1</Version>
+    <Guid>b43ef942-810c-415f-8b25-3956b9f5aa7e</Guid>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
